@@ -1,0 +1,5 @@
+{
+  "name": "Video Transformation Studio",
+  "description": "A professional, browser-based video processing suite using FFmpeg WASM. Features real-time previews, color grading, watermarking, and batch processing without server uploads.",
+  "requestFramePermissions": []
+}
